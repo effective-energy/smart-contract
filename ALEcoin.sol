@@ -1,3 +1,12 @@
+// Project: AleHub
+// v1, 2018-05-24
+// This code is the property of CryptoB2B.io
+// Copying in whole or in part is prohibited.
+// Authors: Ivan Fedorov and Dmitry Borodin
+// Do you want the same TokenSale platform? www.cryptob2b.io
+
+// *.sol in 1 file - https://cryptob2b.io/solidity/alehub/
+
 pragma solidity ^0.4.21;
 
 library SafeMath {
